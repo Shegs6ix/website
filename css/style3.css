@@ -1,0 +1,30 @@
+body {
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+.box1 {
+
+background-color: red;
+
+height: 70px;
+width: 70px
+}
+
+
+.box2 {
+
+    background-color: green;
+    height: 70px;
+    width: 70px
+    }
+
+    .box3 {
+
+        background-color: blue;
+        
+        height: 70px;
+        width: 70px
+        }
